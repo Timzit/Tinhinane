@@ -103,7 +103,7 @@ body.dark-mode   .card-container{background-color: #3c4247;}
   }
   body.dark-mode .card-header h2 span{color: #ffffff;}
   .card-header h2 span {
-    font-size: 1rem;
+    font-size: 0.85rem;
     color: #000000;
     display: block;
     margin-top: 10px;
@@ -178,8 +178,8 @@ body.dark-mode   .card-container{background-color: #3c4247;}
     color: #fff;
   }
   
-  .btn:last-child:hover {
-    background-color: #388e3c;
+   .btn:last-child:hover {
+    background-color: #add8ff;
   }
 /* Mode clair par défaut */
 
