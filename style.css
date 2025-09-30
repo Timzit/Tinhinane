@@ -91,7 +91,7 @@ body.dark-mode   .card-container{background-color: #3c4247;}
     height: 200px;
     object-fit: cover;
     border-radius: 50%;
-    border: 3px solid #00529C;
+    border: 3px solid #f68e38;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   }
   body.dark-mode .card-header h2{color: #ffffff;}
@@ -127,7 +127,7 @@ body.dark-mode   .card-container{background-color: #3c4247;}
     margin: 10px auto;
     width: 60%; /* Ajuste comme tu veux */
     border: none;
-    border-top: 2px solid #00529C;
+    border-top: 2px solid #f68e38;
   }
   
   /* Corps de la carte : boutons / liens */
@@ -225,7 +225,7 @@ body.dark-mode   .card-container{background-color: #3c4247;}
   margin: 30px auto 10px;
   width: 80%;
   border: none;
-  border-top: 2px solid #00529C;
+  border-top: 2px solid #f68e38;
 }
 
 .partners-title {
